@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LIORSOLLYSHACHAR.COM</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #222;
+    }
+    header {
+      background: #333;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+      font-size: 2rem;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h2 {
+      margin-top: 2rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 1rem 0;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>LIORSOLLYSHACHAR.COM</div>
+    <div style="font-family: 'David', serif; font-size: 1.5rem; margin-top: 0.5rem;">אורות</div>
+  </header>
+  <main>
+    <section>
+      <h2>Main Sections</h2>
+      <ul>
+        <li><a href="orot.html">Orot</a></li>
+        <li><a href="academic-portfolio.html">Academic Portfolio</a></li>
+        <li><a href="credentials.html">Credentials</a></li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
